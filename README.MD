@@ -35,6 +35,4 @@ This project is a simple login and registration web application developed using 
 3. After registration, log in using your credentials.
 4. Explore the features of the application.
 
-## Contributors
-
 - [Guru Aakash](https://github.com/Aakash3279)
